@@ -1,5 +1,5 @@
 {
-    "name": "laravel-notification-channels/clickatell",
+    "name": "evidencefrank/clickatell",
     "description": "Clickatell notifications driver",
     "keywords": ["laravel", "notifications", "clickatell", "sms"],
     "homepage": "https://github.com/evidencefrank/clickatell",
