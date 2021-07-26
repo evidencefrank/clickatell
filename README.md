@@ -1,16 +1,6 @@
 # Clickatell notifications channel for Laravel
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/laravel-notification-channels/clickatell.svg?style=flat-square)](https://packagist.org/packages/laravel-notification-channels/clickatell)
-[![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
-[![Build Status](https://img.shields.io/travis/laravel-notification-channels/clickatell/master.svg?style=flat-square)](https://travis-ci.org/laravel-notification-channels/clickatell)
-[![StyleCI](https://styleci.io/repos/65714964/shield)](https://styleci.io/repos/65714964)
-[![SensioLabsInsight](https://img.shields.io/sensiolabs/i/853ee111-4bcf-4955-842c-dcd666da77a1.svg?style=flat-square)](https://insight.sensiolabs.com/projects/853ee111-4bcf-4955-842c-dcd666da77a1)
-[![Quality Score](https://img.shields.io/scrutinizer/g/laravel-notification-channels/clickatell.svg?style=flat-square)](https://scrutinizer-ci.com/g/laravel-notification-channels/clickatell)
-[![Code Coverage](https://img.shields.io/scrutinizer/coverage/g/laravel-notification-channels/clickatell/master.svg?style=flat-square)](https://scrutinizer-ci.com/g/laravel-notification-channels/clickatell/?branch=master)
-[![Total Downloads](https://img.shields.io/packagist/dt/laravel-notification-channels/clickatell.svg?style=flat-square)](https://packagist.org/packages/laravel-notification-channels/clickatell)
-
-
-This package makes it easy to send notifications using [clickatell.com](https://www.clickatell.com/) with Laravel 5.5+, 6.x & 7.x.
+This package makes it easy to send notifications using [clickatell.com](https://www.clickatell.com/) with Laravel 5.5+, 6.x, 7.x & 8.x.
 
 ## Contents
 
@@ -108,7 +98,7 @@ $ composer test
 
 ## Security
 
-If you discover any security related issues, please email hello@etiennemarais.co.za instead of using the issue tracker.
+If you discover any security related issues, please email evidencefrank.mandizvidza.@gmail.com instead of using the issue tracker.
 
 ## Contributing
 
@@ -117,6 +107,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 ## Credits
 
 - [etiennemarais](https://github.com/etiennemarais)
+- [etiennemarais](https://github.com/laravel-notification-channels/clickatell) (forked from this repository)
 - [arcturial](https://github.com/arcturial)
     - For the [Clickatell Client implementation](https://github.com/arcturial/clickatell) which I leverage on for this wrapper
 
