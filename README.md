@@ -21,7 +21,7 @@ This package makes it easy to send notifications using [clickatell.com](https://
 You can install the package via composer:
 
 ```bash
-composer require laravel-notification-channels/clickatell
+composer require evidencefrank/clickatell
 ```
 
 ### Setting up the clickatell service
@@ -98,7 +98,7 @@ $ composer test
 
 ## Security
 
-If you discover any security related issues, please email evidencefrank.mandizvidza.@gmail.com instead of using the issue tracker.
+If you discover any security related issues, please email evidencefrank.mandizvidza@gmail.com instead of using the issue tracker.
 
 ## Contributing
 
